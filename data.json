@@ -1,0 +1,80 @@
+  const articulos = [
+    {
+      "Nombre": "Trona Mila Jane",
+      "Precio": "170€",
+      "Imagen": "images/image1.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Coche 2 piezas Nea Nature Vives",
+      "Precio": "599€",
+      "Imagen": "images/image2.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Bolso Jirafas Bimbi",
+      "Precio": "45.90€",
+      "Imagen": "images/image3.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Sabana Minicuna Bunny",
+      "Precio": "23.95€",
+      "Imagen": "images/image4.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Sabana Minicuna Funny",
+      "Precio": "21.95€",
+      "Imagen": "images/image5.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Bibes Avent 125ml (2 und.)",
+      "Precio": "27.90€",
+      "Imagen": "images/image6.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Bibes Avent 260ml (2 und.)",
+      "Precio": "31€",
+      "Imagen": "images/image7.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Dosificador Leche Jane",
+      "Precio": "8.95€",
+      "Imagen": "images/image8.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Limpia Biberones",
+      "Precio": "3.95€",
+      "Imagen": "images/image9.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Set sonajero",
+      "Precio": "22.95€",
+      "Imagen": "images/image10.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Manta verde",
+      "Precio": "16.95€",
+      "Imagen": "images/image11.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Humidificador",
+      "Precio": "61.95€",
+      "Imagen": "images/image12.jpg",
+      "Reserva": "0"
+    },
+    {
+      "Nombre": "Cuna nido Vichy",
+      "Precio": "61.95€",
+      "Imagen": "images/image13.jpg",
+      "Reserva": "0"
+    },
+  ]
